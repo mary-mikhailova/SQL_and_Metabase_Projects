@@ -16,4 +16,5 @@ _Примечание:_ столбец cnt округлите до 2-х знак
 В этом задании вам придется поработать с уже знакомой таблицей sales
 
 __Структура БД:__
+
 <img width="889" height="464" alt="image" src="https://github.com/user-attachments/assets/de5f8c23-48ac-4fbf-961a-32e5a7ebd40c" />
