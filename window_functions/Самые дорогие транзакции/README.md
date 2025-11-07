@@ -29,3 +29,8 @@ _Пример ответа:_
 | АЗС | 2020	| 2	| null |
 | АЗС | 2019	| 3	| null |
 | АЗС | 2020	| 3	| null |
+
+__Структура БД:__
+
+<img width="895" height="325" alt="image" src="https://github.com/user-attachments/assets/9a7a3611-9749-4202-b35e-0edf433d28e2" />
+
