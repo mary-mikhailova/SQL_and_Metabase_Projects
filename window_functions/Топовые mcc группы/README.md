@@ -38,3 +38,7 @@ _Пример ответа:_
 | null | 10 | null | null | null |
 | null | 11 | null | null | null |
 | null | 12 | null | null | null |
+
+__Структура БД:__
+
+<img width="900" height="326" alt="image" src="https://github.com/user-attachments/assets/491a021f-cc52-487a-a787-28c8f5b657b4" />
